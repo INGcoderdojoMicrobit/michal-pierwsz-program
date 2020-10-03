@@ -1,4 +1,5 @@
 basic.showString("hej")
+basic.showNumber(0)
 basic.forever(function () {
     basic.clearScreen()
     for (let index = 0; index < 4; index++) {
